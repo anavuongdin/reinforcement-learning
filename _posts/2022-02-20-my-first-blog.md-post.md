@@ -13,7 +13,6 @@ $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 # Tesing out image
 {:refdef: style="text-align: center;"}
   ![Minh họa về Học tăng cường]({{ page.image | relative_url }}){: .center-image }  
-  {:.image-caption}
   *Hình 1: Minh họa về Học tăng cường* 
 {: refdef}
 
