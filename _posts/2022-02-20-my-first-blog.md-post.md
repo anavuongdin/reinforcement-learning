@@ -8,3 +8,5 @@ Trong bài viết này, mình sẽ trình bày các khái niệm về Reinforcem
 # Testing out latex
 
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
