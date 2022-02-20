@@ -17,5 +17,7 @@ $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
     <figcaption> Minh họa về Học tăng cường </figcaption>
   </figure>  
 </div>
-  
+ 
+# Test 2
+![Picture text]({{ page.image | relative_url }}){: .center-image }
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
