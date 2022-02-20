@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning"
+title: "Giới thiệu về blog"
 date: 2022-02-20
 ---
 
