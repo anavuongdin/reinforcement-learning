@@ -11,6 +11,8 @@ Trong bài viết này, mình sẽ trình bày các khái niệm về Reinforcem
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 # Tesing out image
-![Minh họa về Học tăng cường]({{ page.image | relative_url }})
+<p align="center">
+  ![Minh họa về Học tăng cường]({{ page.image | relative_url }})
+</p>
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
