@@ -11,16 +11,9 @@ Trong bài viết này, mình sẽ trình bày các khái niệm về Reinforcem
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 # Tesing out image
-<div style="text-align: center">
-  <figure>
-    <img src="{{ page.image | relative_url }}" />
-    <figcaption> Minh họa về Học tăng cường </figcaption>
-  </figure>  
-</div>
- 
-# Test 2
 {:refdef: style="text-align: center;"}
-![Picture text]({{ page.image | relative_url }}){: .center-image }
+  ![Minh họa về Học tăng cường]({{ page.image | relative_url }}){: .center-image }
+  Minh họa về Học tăng cường
 {: refdef}
 
 
