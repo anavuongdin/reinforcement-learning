@@ -21,3 +21,8 @@ $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 # Test 2
 ![Picture text]({{ page.image | relative_url }}){: .center-image }
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+/* To center images */
+.center {
+    text-align: center;
+}
