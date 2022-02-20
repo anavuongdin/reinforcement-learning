@@ -11,5 +11,6 @@ $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 # Tesing out image
 ![Minh họa về Học tăng cường](/assets/img/reinforcement-learning.webp)
+<img src="/assets/images/test.jpg" alt="">
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
