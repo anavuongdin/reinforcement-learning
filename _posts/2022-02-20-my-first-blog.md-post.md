@@ -11,11 +11,11 @@ Trong bài viết này, mình sẽ trình bày các khái niệm về Reinforcem
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 # Tesing out image
-<p class="aligncenter">
+<div style="text-align: center">
   <figure>
     <img src="{{ page.image | relative_url }}" />
     <figcaption> Minh họa về Học tăng cường </figcaption>
   </figure>  
-</p>
+</div>
   
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
