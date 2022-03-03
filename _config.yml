@@ -3,7 +3,7 @@ date: 2022-02-20
 author: "Vuong Dinh An"
 email: an.vd180003@sis.hust.edu.vn
 description: > # this means to ignore newlines until "baseurl:"
-  Reinforcement Learning, Markov Decision Process, Q-learning, TD, Value Iteration, Monte-Carlo, Epsilon-Greedy, Gradient Bandit
+  Reinforcement Learning, Markov Decision Process, Q-learning, TD, Value Iteration, Monte-Carlo, Epsilon-Greedy, Gradient Bandit, Deep Q-Learning, SARSA, Actor-critic
 permalink: /:title/
 # social links
 twitter_username: andy_vg_dev3 # DO NOT include the @ character, or else the build will fail!
